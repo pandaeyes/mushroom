@@ -1,0 +1,1 @@
+Go-moku(wuziqi) AI Program. Mushroom is for the memory of my high school life.
